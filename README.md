@@ -2,8 +2,8 @@
 - 👀 I’m interested in Cybersecurity and Web development
 - 🌱 I’m currently learning laravel
 - 💞️ I’m looking to collaborate on Web projects
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me 
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 <!---
